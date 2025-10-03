@@ -18,10 +18,16 @@ AI折腾哥的技术资料存档库，收录开源AI项目拆解、基础知识�
      │       └── related-resources/ # 相关资源推荐
      │
      ├── basic-knowledge/           # 基础知识体系
-     │   └── [field]/               # 领域分类（如llm、cv、nlp）
-     │       ├── mindmap/           # 思维导图（PDF/PNG）
-     │       ├── core-concepts.md   # 核心概念解析
-     │       └── learning-path.md   # 学习路径规划
+     │   └── llm/                   # LLM 领域
+     │       ├── mindmap/           # 思维导图（XMind/PNG）
+     │       │   ├── llm_category.jpg          # LLM 分类思维导图
+     │       │   ├── llm_name_split.jpg        # LLM 名称参数思维导图
+     │       │   ├── openai_chat_conversation_interface.xmind  # OpenAI 对话接口思维导图
+     │       │   ├── openai_core_api.xmind     # OpenAI 核心 API 思维导图
+     │       │   ├── openai_v1_chat_completions_api.xmind      # OpenAI v1 对话完成 API 思维导图
+     │       │   └── openai_vector_embedding_interface.xmind    # OpenAI 向量嵌入接口思维导图
+     │       ├── LLM_Classification.md         # LLM 分类文档
+     │       └── LLM_Names_and_Parameters.md   # LLM 名称与参数文档
 
 ## 基础知识思维导图示例
 LLM基础分类思维导图：
